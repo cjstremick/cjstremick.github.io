@@ -2,4 +2,4 @@
 
 My name is Cj Stremick and I'm a software architect and developer.
 
-You can contact my by email <a href="mailto:cj@stremick.com">here</a>.
+You can contact me by email <a href="mailto:contact@stremick.com">here</a>.
